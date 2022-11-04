@@ -2,7 +2,7 @@
 git clone https://github.com/hackingnewsUSA/penbox/
 
 
-
+cd penbox
 
 
 
